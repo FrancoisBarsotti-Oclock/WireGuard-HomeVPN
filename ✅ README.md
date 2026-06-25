@@ -108,7 +108,13 @@ Parmi les différentes solutions VPN disponibles, WireGuard a été retenu pour 
 ## 🏗️ Architecture
 
 
-> 🚧 Le schéma d'architecture sera ajouté prochainement.
+## 🏗️ Architecture
+
+Cette infrastructure repose sur un serveur WireGuard auto-hébergé sous Linux Mint, placé derrière une Livebox 6. Les clients VPN (Android et Windows) établissent un tunnel chiffré afin d'accéder au réseau local et de faire transiter leur trafic Internet via la connexion du domicile.
+
+![Architecture générale](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Architecture.png)
+
+> **Figure 1 – Vue d'ensemble de l'architecture du projet.**
 
 ## 📂 Documentation
 
