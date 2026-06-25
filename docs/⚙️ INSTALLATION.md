@@ -63,7 +63,7 @@ DHCP
 Baux DHCP statiques
 ```
 
-![DHCP dans Livebox]()
+![DHCP dans Livebox](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/DHP%20dans%20Livebox.png)
 
 > 📷 **Figure 1 – Réservation DHCP dans la Livebox**
 
@@ -86,7 +86,7 @@ sudo apt install wireguard qrencode -y
 # Vérifier la version :
 wg --version
 ```
-![Installation des paquets]()
+![Installation des paquets](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Installation%20des%20paquets.png)
 
 📷 **Figure 2 – Vérfication de version**
 ---
@@ -109,7 +109,7 @@ cat publickey
 ip route | grep default
 ```
 
-![Visualisation clés générées]()
+![Visualisation clés générées](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Visualisation%20des%20cl%C3%A9s%20g%C3%A9n%C3%A9r%C3%A9es.png)
 
 📷 **Figure 3 – Vérfication de version**
 
@@ -137,7 +137,7 @@ PostUp = ...
 PostDown = ...
 ```
 
-![Configuration de wg0.conf]()
+![Configuration de wg0.conf](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Configuration%20de%20wg0.conf.png)
 
 📷 **Figure 4 – Configuration de `wg0.conf`**
 
@@ -188,7 +188,7 @@ Résultat attendu :
 1
 ```
 
-![Activation du routage]()
+![Activation du routage](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Activation%20du%20routage.png)
 
 📷 **Figure 5 – Activation du routage IPv4**
 
@@ -206,7 +206,7 @@ sudo wg
 ip addr show wg0
 ```
 
-![Interface wg0 active]()
+![Interface wg0 active](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Interface%20wg0%20active.png)
 
 📷 **Figure 6 – Interface `wg0` active**
 
@@ -230,9 +230,9 @@ Résultat attendu :
 enabled
 ```
 
-![Service wg-quick@wg0 activé]()
+![Service wg-quick@wg0 activé](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Service%20wg-quick%40wg0%20activ%C3%A9.png)
 
-📷 **Service `wg-quick@wg0` activé**
+📷 **Figure 7 – Service `wg-quick@wg0` activé**
 
 ---
 
