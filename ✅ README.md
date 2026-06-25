@@ -30,11 +30,7 @@ L'objectif est de permettre à plusieurs appareils (Android, Windows et Linux) d
 - [🏗️ Architecture](#️-architecture)
 - [📂 Documentation](#-documentation)
 - [✅ Résultat](#-résultat)
-- [📷 Captures](#-captures)
-- [🧪 Tests](#-tests)
-- [🛡️ Sécurité](#️-sécurité)
-- [🐞 Dépannage](#-dépannage)
-- [🚀 Améliorations futures](#-améliorations-futures)
+
 
 ## 🚧 État du projet
 
@@ -117,11 +113,13 @@ Cette infrastructure repose sur un serveur WireGuard auto-hébergé sous Linux M
 
 | **Document** | **Description** | **État** |
 |----------|-------------|------|
-| INSTALLATION.md | Installation complète | ✅ |
-| CONFIGURATION.md | Configuration détaillée | ✅ |
-| CLIENTS.md | Android et Windows | ✅ |
-| SECURITY.md | Bonnes pratiques | ✅ |
-| TROUBLESHOOTING.md | Résolution des incidents | 🚧 |
+| [🏗️ARCHITECTURE.md](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/docs/%F0%9F%8F%97%EF%B8%8F%20ARCHITECTURE.md) | Architecture détaillée | ✅ |
+| [⚙️INSTALLATION.md](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/docs/%E2%9A%99%EF%B8%8F%20INSTALLATION.md) | Installation complète | ✅ |
+| [🔧CONFIGURATION.md](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/docs/%F0%9F%94%A7%20CONFIGURATION.md) | Configuration détaillée | ✅ |
+| [📱CLIENTS.md](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/docs/%F0%9F%93%B1%20CLIENTS.md) | Android et Windows | ✅ |
+| [🛡️SECURITY.md](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/docs/%F0%9F%9B%A1%EF%B8%8F%20SECURITY.md) | Bonnes pratiques & sécurité| ✅ |
+| [🐞TROUBLESHOOTING.md](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/docs/%F0%9F%90%9E%20TROUBLESHOOTING.md) | Dépannage et résolution des incidents | ✅ |
+| [🚀IMPROVEMENTS.md](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/docs/%F0%9F%9A%80%20IMPROVEMENTS.md) | Feuille de route et évolutions | ✅ |
 
 ## ✅ Résultat
 
