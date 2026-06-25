@@ -12,7 +12,7 @@ Le serveur VPN est hébergé sur un ordinateur Linux Mint situé derrière une L
 
 > 📷 **Figure 1 – Architecture physique du projet**
 
-![Architecture Physique]()
+![Architecture Physique](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Architecture_Physique.png)
 
 ### Description
 
@@ -32,7 +32,7 @@ L'infrastructure repose sur les composants suivants :
 
 > 📷 **Figure 2 – Fonctionnement du tunnel VPN**
 
-![Fonctionnement Tunnel]()
+![Fonctionnement Tunnel](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Fonctionnement_Tunnel_VPN.png)
 
 ### Fonctionnement
 
@@ -49,7 +49,7 @@ L'infrastructure repose sur les composants suivants :
 
 > 📷 **Figure 3 – Routage IPv4 et NAT**
 
-![Routage]()
+![Routage](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Routage%20IPv4%20%26%20NAT.png)
 
 Le serveur joue le rôle de routeur entre deux réseaux :
 
@@ -89,3 +89,5 @@ Les principaux choix réalisés dans cette architecture sont les suivants :
 * Configuration indépendante de chaque client VPN.
 
 Cette architecture est facilement transférable vers un Raspberry Pi ou un mini-PC dédié sans modifier la configuration des clients, sous réserve de conserver les mêmes clés et le même nom de domaine (ou la même adresse IP publique).
+
+---
