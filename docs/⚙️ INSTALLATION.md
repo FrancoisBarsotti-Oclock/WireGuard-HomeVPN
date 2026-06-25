@@ -188,6 +188,10 @@ Résultat attendu :
 1
 ```
 
+![Activation du routage]()
+
+📷 **Figure 5 – Activation du routage IPv4**
+
 ---
 
 # 7️⃣ Démarrage du serveur
@@ -196,19 +200,15 @@ Lancer WireGuard :
 
 ```bash
 sudo wg-quick up wg0
-```
-
-Vérifier :
-
-```bash
+# Vérifier 
 sudo wg
-```
-
-Puis :
-
-```bash
+# Puis :
 ip addr show wg0
 ```
+
+![Interface wg0 active]()
+
+📷 **Figure 6 – Interface `wg0` active**
 
 ---
 
@@ -229,6 +229,10 @@ Résultat attendu :
 ```text
 enabled
 ```
+
+![Service wg-quick@wg0 activé]()
+
+📷 **Service `wg-quick@wg0` activé**
 
 ---
 
