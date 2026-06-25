@@ -10,6 +10,8 @@
 ![iptables](https://img.shields.io/badge/iptables-NAT-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+> 💡 **Objectif du projet :** déployer une infrastructure VPN moderne, légère et sécurisée afin de permettre un accès distant chiffré au réseau local depuis n'importe quel appareil compatible WireGuard.
+
 ## 📖 Présentation
 
 Ce projet présente la mise en place d'une infrastructure VPN WireGuard auto-hébergée derrière une Livebox 6 afin de fournir un accès distant sécurisé à un réseau local.
