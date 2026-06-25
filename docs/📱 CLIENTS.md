@@ -91,7 +91,7 @@ qrencode -o phone.png < phone.conf
 
 Scanner le QR Code avec l'application WireGuard.
 
-![Import du tunnel sur Android]()
+![Import du tunnel sur Android](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Import%20Tunnel%20sur%20Android.png)
 
 > 📷 **Figure 1 – Import du tunnel WireGuard sur Android**
 
@@ -117,7 +117,7 @@ Import tunnel(s) from file
 
 Le tunnel peut ensuite être activé depuis l'interface graphique.
 
-![Tunnel actif sur Win11]()
+![Tunnel actif sur Win11](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Tunnel%20actif%20sur%20Win11.png)
 
 > 📷 **Figure 2 – Tunnel WireGuard actif sous Windows 11**
 
@@ -221,7 +221,7 @@ Chaque client est capable :
 * de faire transiter son trafic Internet via la Livebox ;
 * d'être identifié individuellement par le serveur grâce à sa clé publique.
 
-![Plusieurs peers & handshakes]()
+![Plusieurs peers & handshakes](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Plusieurs%20peers%20%26%20handshakes.png)
 
 > 📷 **Figure 4 : sortie de sudo wg montrant plusieurs peers et leurs handshakes.**
 

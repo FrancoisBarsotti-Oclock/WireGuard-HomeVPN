@@ -119,7 +119,7 @@ Cette infrastructure repose sur un serveur WireGuard auto-hébergé sous Linux M
 |----------|-------------|------|
 | INSTALLATION.md | Installation complète | ✅ |
 | CONFIGURATION.md | Configuration détaillée | ✅ |
-| CLIENTS.md | Android et Windows | 📚 |
+| CLIENTS.md | Android et Windows | ✅ |
 | SECURITY.md | Bonnes pratiques | 🚧 |
 | TROUBLESHOOTING.md | Résolution des incidents | 🚧 |
 

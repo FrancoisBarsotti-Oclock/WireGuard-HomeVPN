@@ -88,7 +88,7 @@ wg --version
 ```
 ![Installation des paquets](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Installation%20des%20paquets.png)
 
-📷 **Figure 2 – Vérfication de version**
+> 📷 **Figure 2 – Vérfication de version**
 ---
 
 # 3️⃣ Génération des clés du serveur
@@ -111,7 +111,7 @@ ip route | grep default
 
 ![Visualisation clés générées](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Visualisation%20des%20cl%C3%A9s%20g%C3%A9n%C3%A9r%C3%A9es.png)
 
-📷 **Figure 3 – Vérfication de version**
+> 📷 **Figure 3 – Vérfication de version**
 
 ⚠️ La clé privée ne doit jamais être communiquée.
 
@@ -139,7 +139,7 @@ PostDown = ...
 
 ![Configuration de wg0.conf](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Configuration%20de%20wg0.conf.png)
 
-📷 **Figure 4 – Configuration de `wg0.conf`**
+> 📷 **Figure 4 – Configuration de `wg0.conf`**
 
 ---
 
@@ -190,7 +190,7 @@ Résultat attendu :
 
 ![Activation du routage](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Activation%20du%20routage.png)
 
-📷 **Figure 5 – Activation du routage IPv4**
+> 📷 **Figure 5 – Activation du routage IPv4**
 
 ---
 
@@ -208,7 +208,7 @@ ip addr show wg0
 
 ![Interface wg0 active](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Interface%20wg0%20active.png)
 
-📷 **Figure 6 – Interface `wg0` active**
+> 📷 **Figure 6 – Interface `wg0` active**
 
 ---
 
@@ -232,7 +232,7 @@ enabled
 
 ![Service wg-quick@wg0 activé](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Service%20wg-quick%40wg0%20activ%C3%A9.png)
 
-📷 **Figure 7 – Service `wg-quick@wg0` activé**
+> 📷 **Figure 7 – Service `wg-quick@wg0` activé**
 
 ---
 
