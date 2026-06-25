@@ -30,7 +30,7 @@ L'infrastructure repose sur les composants suivants :
 
 # 🔒 Architecture logique
 
-> 📷 **Figure 2 – Fonctionnement du tunnel VPN**
+> 📷 **Figure 2 – Fonctionnement du tunnel WireGuard VPN**
 
 ![Fonctionnement Tunnel](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Fonctionnement_Tunnel_VPN.png)
 
@@ -47,7 +47,7 @@ L'infrastructure repose sur les composants suivants :
 
 # 🔀 Routage réseau
 
-> 📷 **Figure 3 – Routage IPv4 et NAT**
+> 📷 **Figure 3 – Routage IPv4 et traduction d'adresses (NAT)**
 
 ![Routage](https://github.com/FrancoisBarsotti-Oclock/WireGuard-HomeVPN/blob/main/images/Routage%20IPv4%20%26%20NAT.png)
 
